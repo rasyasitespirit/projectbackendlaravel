@@ -1,10 +1,10 @@
 # CV. Amanah Elektronik - Backend API
 
-Backend API untuk sistem manajemen penyewaan alat elektronik CV. Amanah Elektronik. Dibangun menggunakan Laravel 11 dengan JWT Authentication.
+Backend API untuk sistem manajemen penyewaan alat elektronik CV. Amanah Elektronik. Dibangun menggunakan Laravel 12 dengan JWT Authentication.
 
 ## Tech Stack
 
-- **Framework**: Laravel 11
+- **Framework**: Laravel 12
 - **Database**: MySQL / SQLite
 - **Authentication**: JWT (tymon/jwt-auth)
 - **PHP Version**: 8.2+
